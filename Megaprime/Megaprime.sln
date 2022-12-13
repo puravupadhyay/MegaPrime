@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megaprime", "Megaprime.csproj", "{DD4D9B2B-0AF6-4FCE-828F-6A6C9C2C66F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megaprime.Tests", "..\Megaprime.Tests\Megaprime.Tests.csproj", "{D36C12F7-615B-4C6D-ADFC-86DE51D57836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4D9B2B-0AF6-4FCE-828F-6A6C9C2C66F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4D9B2B-0AF6-4FCE-828F-6A6C9C2C66F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4D9B2B-0AF6-4FCE-828F-6A6C9C2C66F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4D9B2B-0AF6-4FCE-828F-6A6C9C2C66F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36C12F7-615B-4C6D-ADFC-86DE51D57836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36C12F7-615B-4C6D-ADFC-86DE51D57836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36C12F7-615B-4C6D-ADFC-86DE51D57836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36C12F7-615B-4C6D-ADFC-86DE51D57836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9BB184-8BC2-4F8F-933F-06AE20EF9AE6}
+	EndGlobalSection
+EndGlobal
